@@ -77,3 +77,4 @@ stamp-*
 *.stamp
 *.stamp-*
 .Tpo
+.DS_Store
